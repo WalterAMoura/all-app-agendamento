@@ -1,0 +1,32 @@
+[
+  {
+    "id" : 1,
+    "title": "Evento Teste De Novo",
+    "start": "2022-12-27",
+    "end": "2022-12-27",
+    "color" : "green"
+  },
+  {
+    "id" : 2,
+    "title": "Evento Teste Aqui",
+    "start": "2022-12-28",
+    "end": "2022-12-28",
+    "color" : "orange"
+  },
+  {
+    "id" : 3,
+    "title": "Evento Teste 0",
+    "start": "2022-12-10",
+    "end": "2022-12-10",
+    "color" : "yellow",
+    "textColor" : "red"
+  },
+  {
+    "id" : 4,
+    "title": "Evento Teste I",
+    "start": "2022-12-15",
+    "end": "2022-12-15",
+    "color" : "yellow",
+    "textColor" : "red"
+  }
+]

@@ -1,0 +1,17 @@
+{
+    "name": "wef/calendar",
+    "description": "Calendário Agenda de Evenetos com PHP",
+    "authors": [
+        {
+            "name": "Walter Moura",
+            "email": "walter.moura@sleyersx.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../../class",
+            "Models\\" : "../../model"
+        }
+    }
+}
